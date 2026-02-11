@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">안전 운전 점수 계산기</string>
+    <string name="title_waiting">나의 점수</string>
+    <string name="title_driving">점수 측정 중 ...</string>
+    <string name="title_end">점수 측정 완료</string>
+    <string name="score">P</string>
+    <string name="desc_driving">주행 중</string>
+    <string name="desc_end">주행 종료</string>
+    <string name="desc_warning">-%1$dP 감점</string>
+    <string name="toast_waiting">주행을 시작하세요</string>
+    <string name="toast_driving">점수 계산을 시작합니다</string>
+    <string name="toast_end">점수 측정 종료</string>
+    <string name="toast_warning_title_peeling_out">급과속 감지</string>
+    <string name="toast_warning_desc_peeling_out">30km/h 이상 과속</string>
+    <string name="toast_warning_title_screeching_halt">급감속 감지</string>
+    <string name="toast_warning_desc_screeching_halt">30km/h 이상 감속</string>
+    <string name="toast_warning_title_incautious">핸들 조작 부주의 감지</string>
+    <string name="toast_warning_desc_incautious">50도 이상 회전</string>
+    <string name="footer_waiting">안전벨트를 착용 및 기어를 D단으로 변경 후\n주행을 시작하면 자동으로 측정됩니다.</string>
+    <string name="footer_default">기어가 P단으로 변경되면 계산을 종료합니다.</string>
+    <string name="footer_common">과속, 급가속, 급감속에 주의하세요</string>
+    <string name="class_100">Perfect Driver</string>
+    <string name="class_70">Best Driver</string>
+    <string name="class_50">초보 운전자</string>
+    <string name="class_others">왕초보 운전자</string>
+    <string name="result_title">감점 내역 분석</string>
+    <string name="result_warning_title_peeling_out">급가속 감지</string>
+    <string name="result_warning_desc_peeling_out">30km/h 이상</string>
+    <string name="result_warning_title_incautious">핸들 조작 부주의 감지</string>
+    <string name="result_warning_desc_incautious">50도 이상 회전</string>
+    <string name="result_warning_title_screeching_halt">급감속 감지</string>
+    <string name="result_warning_desc_screeching_halt">30km/h 이상</string>
+    <string name="result_warning_count">%1$d건</string>
+    <string name="result_warning_score">%1$d점</string>
+</resources>

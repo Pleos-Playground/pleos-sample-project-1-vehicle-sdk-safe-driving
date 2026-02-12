@@ -14,7 +14,7 @@ The **Vehicle SDK** provides the following features:
 - Access real-time driving data (speed, mileage, engine status, etc.)
 - Retrieve and modify vehicle settings (climate control, seat position, etc.)
 - Access vehicle diagnostics and alert information
-- More details available at the [Developers Site](https://pleos.ai/playground/documents/api-reference/Connect-SDK)
+- More details available at the [Developers Site](https://document.pleos.ai/api-reference/connect-sdk-pleos)
 
 ## Configuration
 
@@ -47,8 +47,8 @@ hands-on knowledge of its capabilities.
 
 - The **Vehicle SDK** requires special permissions and runs on the **Pleos Connect Emulator**, but it does not work on a standard AVD.
 - For more details about the **Pleos Connect Emulator**, please refer to
-  the [Developers Site](https://pleos.ai/playground/documents/docs/Guide/Getting-Started/Application%20development/setup-connect-sdk-emulator).
-- For the design, please refer to the [common design guide](https://pleos.ai/playground/documents/docs/docs-design-pleos/intro).
+  the [Developers Site](https://document.pleos.ai/docs/connect/guide/getting-started/application-development/setup-connect-sdk-emulator).
+- For the design, please refer to the [common design guide](https://document.pleos.ai/docs/pleos-only/docs-design-pleos/intro).
 
 ## Applicable Target
 
